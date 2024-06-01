@@ -1,6 +1,6 @@
-# DIO - Solução para o desafio do módulo de sintaxe de Java
+# DIO - Backend com Java - Solução para o desafio do módulo de sintaxe de Java
 
-Esta é uma solução para o desafio do módulo de sintaxe de Java da [DIO](www.dio.me). 
+Esta é uma solução para o desafio do módulo de sintaxe de Java do Bootcamp Backend com Java da [DIO](www.dio.me). 
 
 #### Autores
 
