@@ -1,4 +1,4 @@
-# DIO - Trilha Java Básico
+# DIO - Desafio Trilha Java Básico
 
 www.dio.me
 
@@ -8,7 +8,7 @@ www.dio.me
 
 ## Sintaxe - Desafio
 
-Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
+Esta é a minha solução para o desafio do módulo de Sintaxe de Java. Instruções:
 
 1. Crie o projeto `ContaBanco` que receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:
 2. Dentro do projeto, crie a classe `ContaTerminal.java` para realizar toda a codificação do nosso programa.
